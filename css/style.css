@@ -1,9 +1,29 @@
-.material-icons.md-48 { font-size: 48px; }
-
-.card-img-top {
-    height: 20rem;
+#home {
+  background-color: #d9de05;
 }
 
-.hero-img{
-    width: 30rem;
+.cta-btn {
+  justify-self: flex-end;
+}
+
+.solutions {
+  margin-top: 1rem;
+}
+
+.solutions h1 {
+  text-align: center;
+  padding: 1rem;
+}
+
+.material-icons.md-48 {
+  font-size: 48px;
+}
+
+.card-img-top {
+  height: 20rem;
+}
+
+.hero-img {
+  width: 30rem;
+  float: right;
 }
